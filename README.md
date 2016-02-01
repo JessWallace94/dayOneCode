@@ -4,7 +4,7 @@
 
 **Description:** At University, we are currently working on a project that is focused on re-designing and improving our current learning management system. We have three releases to come a prototype, alpha and beta. Along with a peer, I set myself the task of creating an initial draft of a login page for the learning management system that students can use to access their module and course content.
 
-**Languages Used: ** HTML, CSS
+**Languages Used:** HTML, CSS
 
 **Github Repository:** https://github.com/JessWallace94/dayOneCode
 
